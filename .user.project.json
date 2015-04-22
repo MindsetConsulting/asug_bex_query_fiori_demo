@@ -1,0 +1,16 @@
+{
+  "run": [
+    {
+      "filePath": "/ZDEMOBEXCHART3/WebContent/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 3666592,
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}
