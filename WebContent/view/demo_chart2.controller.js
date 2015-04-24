@@ -68,7 +68,7 @@ sap.ui.controller("zdemo_bex.view.demo_chart2", {
 	            
 	            title: {
 	                visible: true,
-	                text: 'Sales by Month'
+	                text: 'Monthly Sales'
 	            }
 	        });
 	  }
